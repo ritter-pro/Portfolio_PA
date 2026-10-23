@@ -1,0 +1,1286 @@
+{
+  "illustration": [
+    {
+      "id": "portraits",
+      "title": [
+        "Характер в портрете",
+        "Character in portraiture"
+      ],
+      "description": [
+        "Лица, фактура и выразительный взгляд. Подборка графических портретов и этапов работы от наброска до законченного образа.",
+        "Faces, texture and an expressive gaze. Graphic portraits and development from sketch to finished image."
+      ],
+      "kind": "frame",
+      "images": [
+        "assets/atelier/1-30.webp",
+        "assets/atelier/1-32.webp",
+        "assets/atelier/1-46.webp",
+        "assets/atelier/2-33.webp",
+        "assets/atelier/2-34.webp"
+      ]
+    },
+    {
+      "id": "little-ghost",
+      "title": [
+        "Маленький призрак",
+        "Little ghost"
+      ],
+      "description": [
+        "Тихая сказочная сцена: холодный лес, светлый персонаж и отражения на воде. Свет и цвет собирают внимание вокруг героя.",
+        "A quiet fairy-tale scene: a cool forest, a bright character and reflections on water. Light and colour draw attention to the protagonist."
+      ],
+      "kind": "frame",
+      "images": [
+        "assets/atelier/little-ghost.webp"
+      ]
+    },
+    {
+      "id": "bloom",
+      "title": [
+        "Цветение",
+        "Bloom"
+      ],
+      "description": [
+        "Живописная работа с человеческой фигурой и цветочным образом. Приглушённый фон подчёркивает тёплый центр композиции; фотография сохраняет атмосферу мастерской.",
+        "A painting combining a human figure with a floral image. A muted background emphasises the warm centre; the photograph preserves the studio atmosphere."
+      ],
+      "kind": "frame",
+      "images": [
+        "assets/atelier/bloom.webp"
+      ]
+    },
+    {
+      "id": "characters",
+      "title": [
+        "Истории персонажей",
+        "Character stories"
+      ],
+      "description": [
+        "Разные характеры и настроения: от озорного портрета до сказочных героев. Силуэт, мимика и детали костюма помогают рассказать историю без текста.",
+        "Distinct characters and moods, from a playful portrait to fairy-tale figures. Silhouette, expression and costume tell the story."
+      ],
+      "kind": "frame",
+      "images": [
+        "assets/atelier/1-23.webp",
+        "assets/atelier/1-26.webp",
+        "assets/atelier/1-27.webp",
+        "assets/atelier/1-29.webp",
+        "assets/atelier/1-41.webp",
+        "assets/atelier/1-44.webp"
+      ]
+    },
+    {
+      "id": "fantasy",
+      "title": [
+        "Фантастические миры",
+        "Imagined worlds"
+      ],
+      "description": [
+        "Сюжетные иллюстрации с многослойной композицией. Ритм деталей, масштаб героев и цвет создают ощущение отдельного мира.",
+        "Narrative illustrations with layered compositions. Detail, character scale and colour create a world of their own."
+      ],
+      "kind": "frame",
+      "images": [
+        "assets/atelier/1-22.webp",
+        "assets/atelier/1-37.webp",
+        "assets/atelier/1-40.webp",
+        "assets/atelier/1-45.webp"
+      ]
+    },
+    {
+      "id": "studies",
+      "title": [
+        "Наблюдение и форма",
+        "Observation and form"
+      ],
+      "description": [
+        "Натюрморты, учебные постановки и работа с натурой. Светотень и тон передают объём, а различие фактур делает предметы узнаваемыми.",
+        "Still lifes, observational studies and work from life. Light and tone convey volume while textures distinguish the objects."
+      ],
+      "kind": "frame",
+      "images": [
+        "assets/atelier/1-39.webp",
+        "assets/atelier/1-42.webp",
+        "assets/atelier/1-43.webp"
+      ],
+      "hero": "assets/atelier/1-43.webp"
+    }
+  ],
+  "web": [
+    {
+      "id": "pa2004",
+      "title": [
+        "PA–2004 / Техпаспорт",
+        "PA–2004 / Technical passport"
+      ],
+      "description": [
+        "Завершённое портфолио как презентация технологичного продукта: двуязычная навигация, голограмма, галереи проектов и адаптивная система интерфейса.",
+        "A completed portfolio presented as a technology product: bilingual navigation, a hologram, project galleries and a responsive interface."
+      ],
+      "kind": "laptop",
+      "images": [
+        "assets/projects/pa-final-home.webp",
+        "assets/projects/pa-final-graphics.webp",
+        "assets/projects/pa-final-editorial.webp"
+      ],
+      "link": "portfolio-case.html",
+      "scroll": false
+    },
+    {
+      "id": "yoga",
+      "title": [
+        "Материя / Студия йоги",
+        "Materia / Yoga studio"
+      ],
+      "description": [
+        "Лендинг студии йоги с описанием занятий и возможностью записи. Мягкие градиенты и пластичные формы поддерживают спокойный характер проекта.",
+        "A yoga studio landing-page prototype with class information and booking. Soft gradients and flowing shapes establish a calm tone."
+      ],
+      "kind": "laptop",
+      "images": [
+        "assets/atelier/8-30.webp",
+        "assets/atelier/7-24.webp",
+        "assets/atelier/8-31.webp"
+      ],
+      "scroll": true,
+      "youtube": "bPs-3OqDB5M"
+    },
+    {
+      "id": "cofefest",
+      "title": [
+        "CofeFest / Кофейня",
+        "CofeFest / Coffee"
+      ],
+      "description": [
+        "Концепция многостраничного сайта кафе: меню, интерьер и новости. Фотографии кофе и выразительная типографика задают атмосферу первого экрана.",
+        "A multi-page café website concept featuring the menu, interior and news. Coffee photography and expressive typography set the opening mood."
+      ],
+      "kind": "laptop",
+      "images": [
+        "assets/atelier/8-55.webp",
+        "assets/atelier/7-32.webp",
+        "assets/atelier/8-55.webp",
+        "assets/atelier/8-56.webp",
+        "assets/atelier/8-57.webp"
+      ],
+      "scroll": false,
+      "hero": "assets/atelier/7-32.webp",
+      "youtube": "SUaI1XBA3WE"
+    },
+    {
+      "id": "agrio",
+      "title": [
+        "Agrio / Растения",
+        "Agrio / Plants"
+      ],
+      "description": [
+        "Прототип приложения для помощи в сельском хозяйстве. Карточки растений, наблюдения и графики объединены в зелёную визуальную систему.",
+        "An agricultural app prototype. Plant cards, observations and charts share a green visual system."
+      ],
+      "kind": "phone",
+      "images": [
+        "assets/atelier/8-21.webp",
+        "assets/atelier/8-22.webp",
+        "assets/atelier/8-23.webp",
+        "assets/atelier/8-24.webp",
+        "assets/atelier/8-25.webp",
+        "assets/atelier/8-26.webp",
+        "assets/atelier/8-19.webp"
+      ],
+      "scroll": false,
+      "youtube": "_YVWS_vZryo"
+    },
+    {
+      "id": "waycup",
+      "title": [
+        "WAYCUP / Кофейня",
+        "WAYCUP / Coffee"
+      ],
+      "description": [
+        "Мобильный прототип кофейни: знакомство с ассортиментом, выбор заказа и информация об акциях. Тёплая палитра поддерживает фотографии напитков и выпечки.",
+        "A coffee shop mobile prototype: browse the menu, choose an order and discover offers. A warm palette supports drink and pastry photography."
+      ],
+      "kind": "phone",
+      "images": [
+        "assets/atelier/7-7.webp",
+        "assets/atelier/7-6.webp",
+        "assets/atelier/8-37.webp",
+        "assets/atelier/8-38.webp"
+      ],
+      "scroll": false,
+      "youtube": "X0xEnkp0ZE8"
+    },
+    {
+      "id": "white-square",
+      "title": [
+        "Белый квадрат",
+        "White Square"
+      ],
+      "description": [
+        "Интерактивная брошюра центра: навигация по занятиям и краткое знакомство с его возможностями. Контрастная графика делает информационную подачу заметной.",
+        "An interactive centre brochure with activity navigation and an overview of its facilities. High-contrast graphics make the information stand out."
+      ],
+      "kind": "tablet",
+      "images": [
+        "assets/atelier/7-29.webp",
+        "assets/atelier/8-46.webp",
+        "assets/atelier/8-47.webp",
+        "assets/atelier/8-48.webp",
+        "assets/atelier/8-49.webp",
+        "assets/atelier/8-50.webp",
+        "assets/atelier/8-51.webp"
+      ],
+      "scroll": false,
+      "landscape": true,
+      "youtube": "xYeiPWn7Nuk"
+    },
+    {
+      "id": "retreat",
+      "title": [
+        "База отдыха",
+        "Holiday retreat"
+      ],
+      "description": [
+        "Шапки и подвалы сайта в единой системе. Крупная фотография места и заметные элементы навигации помогают быстро понять предложение.",
+        "Website headers and footers designed as one system. Location photography and clear navigation communicate the offer."
+      ],
+      "kind": "laptop",
+      "images": [
+        "assets/atelier/7-35.webp",
+        "assets/atelier/8-61.webp",
+        "assets/atelier/8-62.webp",
+        "assets/atelier/8-63.webp",
+        "assets/atelier/8-64.webp",
+        "assets/atelier/8-65.webp"
+      ],
+      "scroll": false
+    },
+    {
+      "id": "keto",
+      "title": [
+        "Кето / Доставка питания",
+        "Keto / Food delivery"
+      ],
+      "description": [
+        "Прототип лендинга полезного питания с оформлением доставки. Продуктовые фотографии, мягкая палитра и понятная иерархия поддерживают выбор блюда.",
+        "A healthy-food delivery landing-page prototype. Food photography, soft colours and clear hierarchy support meal selection."
+      ],
+      "kind": "laptop",
+      "images": [
+        "assets/atelier/8-67.webp",
+        "assets/atelier/7-38.webp",
+        "assets/atelier/8-67.webp"
+      ],
+      "scroll": true,
+      "youtube": "aALJAe-B2NE"
+    },
+    {
+      "id": "conference",
+      "title": [
+        "Научная конференция",
+        "Scientific conference"
+      ],
+      "description": [
+        "Интерактивный плакат для социальных сетей. Даты, тема и программа организованы так, чтобы главное считывалось с первого взгляда.",
+        "An interactive social-media poster. Dates, topic and programme are arranged for quick scanning."
+      ],
+      "kind": "laptop",
+      "images": [
+        "assets/atelier/7-40.webp",
+        "assets/atelier/8-71.webp",
+        "assets/atelier/8-72.webp"
+      ],
+      "scroll": false,
+      "youtube": "24DfiTJUmp8"
+    },
+    {
+      "id": "sedelice",
+      "title": [
+        "Sedelice / Интерактивное меню",
+        "Sedelice / Interactive menu"
+      ],
+      "description": [
+        "Меню кафе с иллюстративной подачей напитков и возможностью перехода к нужному разделу. Тёплые оттенки связывают графику с продуктом.",
+        "A café menu with illustrated drinks and section navigation. Warm tones connect the graphics with the product."
+      ],
+      "kind": "tablet",
+      "images": [
+        "assets/atelier/7-45.webp",
+        "assets/atelier/8-76.webp",
+        "assets/atelier/8-77.webp",
+        "assets/atelier/8-78.webp"
+      ],
+      "scroll": false,
+      "landscape": true,
+      "youtube": "RP_lIbX6Pqc"
+    }
+  ],
+  "editorial": [
+    {
+      "id": "thoughts-feelings",
+      "title": [
+        "Мысли и чувства",
+        "Thoughts and feelings"
+      ],
+      "description": [
+        "Сборник стихотворений Сергея Пушкова, 2026. Вёрстка 80 страниц: стихотворения и иллюстрации чередуются, сохраняя воздух и спокойный ритм чтения. В кейсе — настоящие страницы издания.",
+        "Sergey Pushkov’s poetry collection, 2026. An 80-page layout alternates poems and illustrations, preserving space and a quiet reading rhythm. The case shows actual pages."
+      ],
+      "kind": "book",
+      "images": [
+        "assets/atelier/poetry-0.webp",
+        "assets/atelier/poetry-4.webp",
+        "assets/atelier/poetry-5.webp",
+        "assets/atelier/poetry-10.webp",
+        "assets/atelier/poetry-11.webp",
+        "assets/atelier/poetry-20.webp",
+        "assets/atelier/poetry-21.webp"
+      ],
+      "spread": [
+        "assets/atelier/poetry-4.webp",
+        "assets/atelier/poetry-5.webp"
+      ],
+      "product": "bound-book"
+    },
+    {
+      "id": "beauty",
+      "title": [
+        "Салон красоты / Лифлет",
+        "Beauty salon / Leaflet"
+      ],
+      "description": [
+        "Парный проект лифлета о залах салона красоты. Крупные буквы, фотографии и тёплая гамма задают индивидуальный характер носителя.",
+        "A collaborative leaflet introducing a beauty salon’s rooms. Large letterforms, photography and warm colours create a distinctive character."
+      ],
+      "kind": "printed-product",
+      "images": [
+        "assets/atelier/9-41.webp",
+        "assets/atelier/10-57.webp"
+      ],
+      "print": {
+        "image": "assets/print-originals/9-41-original.png",
+        "crop": [
+          0,
+          0,
+          940,
+          668
+        ],
+        "ratio": 1.407185628742515,
+        "source": "https://static.tildacdn.info/tild3736-3966-4661-b732-643261333731/image.png"
+      },
+      "product": "fold",
+      "printImages": [
+        {
+          "image": "assets/print-originals/9-41-original.png",
+          "crop": [
+            0,
+            0,
+            940,
+            668
+          ],
+          "ratio": 1.407185628742515,
+          "source": "https://static.tildacdn.info/tild3736-3966-4661-b732-643261333731/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-57-original.png",
+          "crop": [
+            0,
+            0,
+            1680,
+            1223
+          ],
+          "ratio": 1.3736713000817662,
+          "source": "https://static.tildacdn.info/tild6330-3030-4761-b938-383032333635/image.png"
+        }
+      ]
+    },
+    {
+      "id": "architecture",
+      "title": [
+        "Архитектура / Журнал",
+        "Architecture / Magazine"
+      ],
+      "description": [
+        "Журнальная вёрстка с яркими геометрическими акцентами. Фотографии зданий и красные плоскости задают ритм разворота.",
+        "Magazine layouts with bold geometric accents. Building photography and red planes establish the spread’s rhythm."
+      ],
+      "kind": "printed-product",
+      "images": [
+        "assets/atelier/9-48.webp",
+        "assets/atelier/10-67.webp"
+      ],
+      "print": {
+        "image": "assets/print-originals/9-48-original.png",
+        "crop": [
+          0,
+          0,
+          944,
+          722
+        ],
+        "ratio": 1.3074792243767313,
+        "source": "https://static.tildacdn.info/tild3563-6163-4733-b538-393736323465/image.png"
+      },
+      "product": "magazine",
+      "printImages": [
+        {
+          "image": "assets/print-originals/9-48-original.png",
+          "crop": [
+            0,
+            0,
+            944,
+            722
+          ],
+          "ratio": 1.3074792243767313,
+          "source": "https://static.tildacdn.info/tild3563-6163-4733-b538-393736323465/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-67-original.png",
+          "crop": [
+            0,
+            0,
+            1680,
+            1292
+          ],
+          "ratio": 1.3003095975232197,
+          "source": "https://static.tildacdn.info/tild6365-6265-4533-a465-666138646539/image.png"
+        }
+      ]
+    },
+    {
+      "id": "interactive-magazine",
+      "title": [
+        "Интерактивный журнал",
+        "Interactive magazine"
+      ],
+      "description": [
+        "Дизайн и вёрстка интерактивного журнала в Adobe InDesign. Портретная фотография, текст и элементы навигации работают в одной редакционной системе.",
+        "An interactive magazine designed in Adobe InDesign. Portrait photography, text and navigation share an editorial system."
+      ],
+      "kind": "printed-product",
+      "images": [
+        "assets/atelier/9-17.webp",
+        "assets/atelier/10-19.webp",
+        "assets/atelier/10-20.webp",
+        "assets/atelier/10-22.webp",
+        "assets/atelier/10-23.webp",
+        "assets/atelier/10-24.webp"
+      ],
+      "print": {
+        "image": "assets/print-originals/9-17-original.png",
+        "crop": [
+          224,
+          26,
+          714,
+          720
+        ],
+        "ratio": 0.7060518731988472,
+        "source": "https://static.tildacdn.info/tild3838-3161-4963-b565-396638393735/image.png"
+      },
+      "product": "tablet",
+      "printImages": [
+        {
+          "image": "assets/print-originals/9-17-original.png",
+          "crop": [
+            224,
+            26,
+            714,
+            720
+          ],
+          "ratio": 0.7060518731988472,
+          "source": "https://static.tildacdn.info/tild3838-3161-4963-b565-396638393735/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-19-original.png",
+          "crop": [
+            0,
+            0,
+            916,
+            1266
+          ],
+          "ratio": 0.7235387045813586,
+          "source": "https://static.tildacdn.info/tild3235-6263-4435-a361-633435303561/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-20-original.png",
+          "crop": [
+            0,
+            0,
+            916,
+            1266
+          ],
+          "ratio": 0.7235387045813586,
+          "source": "https://static.tildacdn.info/tild6532-6336-4463-b666-363464613234/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-22-original.png",
+          "crop": [
+            0,
+            0,
+            916,
+            1266
+          ],
+          "ratio": 0.7235387045813586,
+          "source": "https://static.tildacdn.info/tild6332-3961-4436-b963-396534323833/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-23-original.png",
+          "crop": [
+            0,
+            0,
+            916,
+            1266
+          ],
+          "ratio": 0.7235387045813586,
+          "source": "https://static.tildacdn.info/tild3039-3638-4132-b531-363532373462/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-24-original.png",
+          "crop": [
+            0,
+            0,
+            916,
+            1266
+          ],
+          "ratio": 0.7235387045813586,
+          "source": "https://static.tildacdn.info/tild3638-6332-4632-b261-343565343863/image.png"
+        }
+      ]
+    },
+    {
+      "id": "bar",
+      "title": [
+        "Барная карта",
+        "Bar menu"
+      ],
+      "description": [
+        "Барная карта и материалы для караоке-бара в фирменной стилистике. Тёмная основа и декоративная типографика передают вечерний характер заведения.",
+        "A bar menu and karaoke-bar materials in a consistent visual style. A dark base and decorative typography evoke an evening venue."
+      ],
+      "kind": "printed-product",
+      "images": [
+        "assets/atelier/9-23.webp",
+        "assets/atelier/10-30.webp",
+        "assets/atelier/10-31.webp"
+      ],
+      "hero": "assets/atelier/10-30.webp",
+      "print": {
+        "image": "assets/print-originals/10-30-original.png",
+        "crop": [
+          0,
+          0,
+          916,
+          1258
+        ],
+        "ratio": 0.7281399046104928,
+        "source": "https://static.tildacdn.info/tild6661-3338-4462-a439-633633383339/image.png"
+      },
+      "product": "laminated",
+      "printImages": [
+        {
+          "image": "assets/print-originals/9-23-original.png",
+          "crop": [
+            224,
+            28,
+            714,
+            720
+          ],
+          "ratio": 0.708092485549133,
+          "source": "https://static.tildacdn.info/tild3436-3438-4663-b433-373131303163/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-30-original.png",
+          "crop": [
+            0,
+            0,
+            916,
+            1258
+          ],
+          "ratio": 0.7281399046104928,
+          "source": "https://static.tildacdn.info/tild6661-3338-4462-a439-633633383339/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-31-original.png",
+          "crop": [
+            0,
+            0,
+            916,
+            1258
+          ],
+          "ratio": 0.7281399046104928,
+          "source": "https://static.tildacdn.info/tild6431-6362-4336-a162-313236316235/image.png"
+        }
+      ]
+    },
+    {
+      "id": "sushi",
+      "title": [
+        "Sushi Kind / Меню",
+        "Sushi Kind / Menu"
+      ],
+      "description": [
+        "Двустороннее меню формата А3 и лифлет. Плотный ассортимент организован по группам, а фотографии помогают ориентироваться в предложении.",
+        "A double-sided A3 menu and leaflet. A broad selection is organised into groups, with photographs helping readers browse."
+      ],
+      "kind": "printed-product",
+      "images": [
+        "assets/atelier/9-27.webp",
+        "assets/atelier/10-35.webp",
+        "assets/atelier/10-37.webp",
+        "assets/atelier/10-38.webp"
+      ],
+      "hero": "assets/atelier/10-35.webp",
+      "print": {
+        "image": "assets/print-originals/10-35-original.png",
+        "crop": [
+          0,
+          0,
+          1680,
+          1213
+        ],
+        "ratio": 1.3849958779884584,
+        "source": "https://static.tildacdn.info/tild3365-3737-4634-b937-313233663632/image.png"
+      },
+      "product": "laminated",
+      "printImages": [
+        {
+          "image": "assets/print-originals/9-27-original.png",
+          "crop": [
+            0,
+            0,
+            952,
+            676
+          ],
+          "ratio": 1.4082840236686391,
+          "source": "https://static.tildacdn.info/tild6361-3965-4461-a162-656566633065/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-35-original.png",
+          "crop": [
+            0,
+            0,
+            1680,
+            1213
+          ],
+          "ratio": 1.3849958779884584,
+          "source": "https://static.tildacdn.info/tild3365-3737-4634-b937-313233663632/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-37-original.png",
+          "crop": [
+            0,
+            0,
+            1680,
+            1213
+          ],
+          "ratio": 1.3849958779884584,
+          "source": "https://static.tildacdn.info/tild3335-3564-4536-a538-353335666566/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-38-original.png",
+          "crop": [
+            0,
+            0,
+            1680,
+            1213
+          ],
+          "ratio": 1.3849958779884584,
+          "source": "https://static.tildacdn.info/tild3264-6433-4232-b164-336230353133/image.png"
+        }
+      ]
+    },
+    {
+      "id": "park",
+      "title": [
+        "Путеводитель по парку",
+        "Park guide"
+      ],
+      "description": [
+        "Туристический лифлет с картой и расположением животных. Иллюстрации и цветовые зоны связывают навигацию с атмосферой парка.",
+        "A tourist leaflet with a map and animal locations. Illustrations and colour zones connect navigation with the park’s atmosphere."
+      ],
+      "kind": "printed-product",
+      "images": [
+        "assets/atelier/9-30.webp",
+        "assets/atelier/10-42.webp",
+        "assets/atelier/10-43.webp"
+      ],
+      "hero": "assets/atelier/9-30.webp",
+      "print": {
+        "image": "assets/print-originals/9-30-original.png",
+        "crop": [
+          0,
+          0,
+          950,
+          508
+        ],
+        "ratio": 1.8700787401574803,
+        "source": "https://static.tildacdn.info/tild3534-3664-4635-b935-366431313831/image.png"
+      },
+      "product": "fold",
+      "printImages": [
+        {
+          "image": "assets/print-originals/9-30-original.png",
+          "crop": [
+            0,
+            0,
+            950,
+            508
+          ],
+          "ratio": 1.8700787401574803,
+          "source": "https://static.tildacdn.info/tild3534-3664-4635-b935-366431313831/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-42-original.png",
+          "crop": [
+            0,
+            0,
+            1680,
+            959
+          ],
+          "ratio": 1.7518248175182483,
+          "source": "https://static.tildacdn.info/tild6132-3966-4162-b666-373631333730/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-43-original.png",
+          "crop": [
+            0,
+            0,
+            1680,
+            1285
+          ],
+          "ratio": 1.3073929961089494,
+          "source": "https://static.tildacdn.info/tild3832-3932-4334-a264-373039653862/image.png"
+        }
+      ]
+    },
+    {
+      "id": "plants-magazine",
+      "title": [
+        "Журнал о растениях",
+        "Plant magazine"
+      ],
+      "description": [
+        "Два разворота с лаконичной вёрсткой: зелёная палитра, крупные заголовки и свободное пространство.",
+        "Two magazine spreads with concise layouts: a green palette, large headings and generous space."
+      ],
+      "kind": "printed-product",
+      "images": [
+        "assets/atelier/9-33.webp",
+        "assets/atelier/10-46.webp"
+      ],
+      "print": {
+        "image": "assets/print-originals/9-33-original.png",
+        "crop": [
+          0,
+          0,
+          940,
+          704
+        ],
+        "ratio": 1.3352272727272727,
+        "source": "https://static.tildacdn.info/tild6636-3264-4136-b435-303435636136/image.png"
+      },
+      "product": "magazine",
+      "printImages": [
+        {
+          "image": "assets/print-originals/9-33-original.png",
+          "crop": [
+            0,
+            0,
+            940,
+            704
+          ],
+          "ratio": 1.3352272727272727,
+          "source": "https://static.tildacdn.info/tild6636-3264-4136-b435-303435636136/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-46-original.png",
+          "crop": [
+            0,
+            0,
+            1680,
+            1292
+          ],
+          "ratio": 1.3003095975232197,
+          "source": "https://static.tildacdn.info/tild3666-3733-4161-a631-633164343136/image.png"
+        }
+      ]
+    },
+    {
+      "id": "home-plants",
+      "title": [
+        "Домашние растения",
+        "Houseplants"
+      ],
+      "description": [
+        "Парный проект двух журнальных разворотов о домашних растениях. Фотографии, текстовые колонки и подписи собраны в читаемую сетку.",
+        "A collaborative project comprising two magazine spreads about houseplants. Photos, columns and captions form a readable grid."
+      ],
+      "kind": "printed-product",
+      "images": [
+        "assets/atelier/9-35.webp",
+        "assets/atelier/10-50.webp"
+      ],
+      "print": {
+        "image": "assets/print-originals/9-35-original.png",
+        "crop": [
+          0,
+          0,
+          940,
+          602
+        ],
+        "ratio": 1.5614617940199336,
+        "source": "https://static.tildacdn.info/tild6232-3434-4136-b730-623161313863/image.png"
+      },
+      "product": "magazine",
+      "printImages": [
+        {
+          "image": "assets/print-originals/9-35-original.png",
+          "crop": [
+            0,
+            0,
+            940,
+            602
+          ],
+          "ratio": 1.5614617940199336,
+          "source": "https://static.tildacdn.info/tild6232-3434-4136-b730-623161313863/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-50-original.png",
+          "crop": [
+            0,
+            0,
+            1680,
+            1104
+          ],
+          "ratio": 1.5217391304347827,
+          "source": "https://static.tildacdn.info/tild3935-6664-4163-a262-653662633565/image.png"
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "title": [
+        "ART / Журнал",
+        "ART / Magazine"
+      ],
+      "description": [
+        "Обложка и разворот журнала об искусстве. Типографическая композиция и репродукции выстроены в сдержанную редакционную систему.",
+        "A cover and spread for an art magazine. Typography and reproductions form a restrained editorial system."
+      ],
+      "kind": "printed-product",
+      "images": [
+        "assets/atelier/9-47.webp",
+        "assets/atelier/10-65.webp"
+      ],
+      "hero": "assets/atelier/10-65.webp",
+      "print": {
+        "image": "assets/print-originals/10-65-original.png",
+        "crop": [
+          0,
+          0,
+          1680,
+          1334
+        ],
+        "ratio": 1.2593703148425788,
+        "source": "https://static.tildacdn.info/tild6136-6165-4133-b832-373165343338/image.png"
+      },
+      "product": "magazine",
+      "printImages": [
+        {
+          "image": "assets/print-originals/9-47-original.png",
+          "crop": [
+            0,
+            0,
+            940,
+            732
+          ],
+          "ratio": 1.284153005464481,
+          "source": "https://static.tildacdn.info/tild6465-3763-4963-b031-366563393630/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-65-original.png",
+          "crop": [
+            0,
+            0,
+            1680,
+            1334
+          ],
+          "ratio": 1.2593703148425788,
+          "source": "https://static.tildacdn.info/tild6136-6165-4133-b832-373165343338/image.png"
+        }
+      ]
+    },
+    {
+      "id": "ghost-book",
+      "title": [
+        "Маленькое привидение / Обложка",
+        "Little ghost / Book cover"
+      ],
+      "description": [
+        "Обложка детской книги: авторская иллюстрация объединяет лицевую и оборотную стороны в сказочную атмосферу.",
+        "A children’s book cover: an original illustration brings the front and back together in a fairy-tale atmosphere."
+      ],
+      "kind": "printed-product",
+      "images": [
+        "assets/atelier/9-54.webp",
+        "assets/atelier/10-74.webp",
+        "assets/atelier/10-75.webp"
+      ],
+      "hero": "assets/atelier/9-54.webp",
+      "print": {
+        "image": "assets/print-originals/9-54-original.png",
+        "crop": [
+          0,
+          0,
+          934,
+          446
+        ],
+        "ratio": 2.094170403587444,
+        "source": "https://static.tildacdn.info/tild3539-3363-4930-b530-323238396264/image.png"
+      },
+      "product": "jacket",
+      "printImages": [
+        {
+          "image": "assets/print-originals/9-54-original.png",
+          "crop": [
+            0,
+            0,
+            934,
+            446
+          ],
+          "ratio": 2.094170403587444,
+          "source": "https://static.tildacdn.info/tild3539-3363-4930-b530-323238396264/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-74-original.png",
+          "crop": [
+            0,
+            0,
+            916,
+            932
+          ],
+          "ratio": 0.9828326180257511,
+          "source": "https://static.tildacdn.info/tild3566-3935-4165-a433-313038366164/image.png"
+        },
+        {
+          "image": "assets/print-originals/10-75-original.png",
+          "crop": [
+            0,
+            0,
+            916,
+            932
+          ],
+          "ratio": 0.9828326180257511,
+          "source": "https://static.tildacdn.info/tild6562-3934-4139-a266-333237383335/image.png"
+        }
+      ]
+    }
+  ],
+  "retouch": [
+    {
+      "id": "retouch-pendant",
+      "title": [
+        "Металл, свет и стекло",
+        "Metal, light and glass"
+      ],
+      "description": [
+        "Предметная ретушь подвесного светильника: чистота поверхности, работа с отражениями и аккуратное отделение сложного силуэта от фона. Детальные ракурсы сохраняют фактуру материалов.",
+        "Product retouching of a pendant light: clean surfaces, controlled reflections and a carefully isolated silhouette. Detail views preserve material texture."
+      ],
+      "kind": "retouch",
+      "images": [
+        "assets/final/retouch-pendant-IMG_0020.webp",
+        "assets/final/retouch-pendant-IMG_0023.webp",
+        "assets/final/retouch-pendant-IMG_0025.webp"
+      ],
+      "before": "assets/final/before-pendant20.webp",
+      "after": "assets/final/retouch-pendant-IMG_0020.webp"
+    },
+    {
+      "id": "retouch-lamp",
+      "title": [
+        "Форма и конструкция",
+        "Form and construction"
+      ],
+      "description": [
+        "Серия обработанных кадров уличного светильника. Общий вид и устройство корпуса показаны в едином масштабе и на чистом фоне для каталожной подачи.",
+        "An outdoor-light product series. Overall form and construction details are presented at a consistent scale against a clean catalogue background."
+      ],
+      "kind": "retouch",
+      "images": [
+        "assets/final/retouch-lamp-IMG_0008.webp",
+        "assets/final/retouch-lamp-IMG_0011.webp",
+        "assets/final/retouch-lamp-IMG_0015.webp"
+      ]
+    },
+    {
+      "id": "retouch-light",
+      "title": [
+        "Каталожная точность",
+        "Catalogue precision"
+      ],
+      "description": [
+        "Ретушь предметной съёмки: убраны отвлекающие детали фона, выровнена подача металла и сохранены границы корпуса. В кейсе — исходная съёмка и результат.",
+        "Product-photo retouching: distracting background details removed, metal rendering refined and the body edges preserved. The case includes the original capture and result."
+      ],
+      "kind": "retouch",
+      "images": [
+        "assets/final/retouch-light-IMG_0021.webp",
+        "assets/final/retouch-light-IMG_0020.webp",
+        "assets/final/retouch-light-IMG_0024.webp"
+      ],
+      "before": "assets/final/before-light.webp",
+      "after": "assets/final/retouch-light-IMG_0021.webp"
+    },
+    {
+      "id": "retouch-fixture",
+      "title": [
+        "Свет в живой среде",
+        "Light in context"
+      ],
+      "description": [
+        "Предметный визуал лампы среди листвы: акцент на свечении, глубине и читаемом силуэте. Готовый кадр для визуальной коммуникации продукта.",
+        "A lamp among foliage, with emphasis on glow, depth and silhouette. A finished product communication image."
+      ],
+      "kind": "retouch",
+      "images": [
+        "assets/final/retouch-fixture.webp"
+      ]
+    },
+    {
+      "id": "retouch-chandelier",
+      "title": [
+        "Ритм световых линий",
+        "Rhythm of light"
+      ],
+      "description": [
+        "Чистая предметная подача светодиодного источника: объём, прозрачная колба и точность мелких деталей.",
+        "A clean product image of an LED light source: volume, transparent glass and precise small details."
+      ],
+      "kind": "retouch",
+      "images": [
+        "assets/final/retouch-chandelier.webp"
+      ]
+    }
+  ],
+  "graphics": [
+    {
+      "id": "manual-54597",
+      "title": [
+        "Настенный светильник",
+        "Wall light"
+      ],
+      "description": [
+        "Авторская схема настенного светильника: фактурный плафон, кронштейн, монтажный комплект и последовательность установки. Разнесённые детали делают устройство и сборку наглядными.",
+        "An original wall-light diagram: textured shade, bracket, mounting kit and installation sequence. Exploded parts make construction and assembly clear."
+      ],
+      "kind": "drawing",
+      "hero": "assets/final/manual-54597-drawing.webp",
+      "images": [
+        "assets/final/manual-54597-drawing.webp",
+        "assets/final/manual-54597-1.webp",
+        "assets/final/manual-54597-2.webp"
+      ],
+      "pdf": "assets/final/manual-54597.pdf",
+      "verified": true,
+      "coverRatio": 1.675549633577615
+    },
+    {
+      "id": "manual-54703",
+      "title": [
+        "Классическая люстра",
+        "Classic chandelier"
+      ],
+      "description": [
+        "Паспорт подвесной люстры «Верона»: общий вид, монтажный комплект и узлы крепления. Детали и выносные фрагменты показывают подключение и порядок сборки.",
+        "A manual for the Verona pendant chandelier: overall view, mounting kit and attachment points. Detail views explain wiring and assembly."
+      ],
+      "kind": "drawing",
+      "hero": "assets/final/manual-54703-drawing.webp",
+      "images": [
+        "assets/final/manual-54703-drawing.webp",
+        "assets/final/manual-54703-1.webp",
+        "assets/final/manual-54703-2.webp"
+      ],
+      "pdf": "assets/final/manual-54703.pdf",
+      "verified": true,
+      "coverRatio": 1.675549633577615
+    },
+    {
+      "id": "manual-54735",
+      "title": [
+        "Потолочная люстра",
+        "Ceiling chandelier"
+      ],
+      "description": [
+        "Паспорт потолочной люстры «Палермо»: устройство светильника, крепёж и монтажная планка, установка плафонов и ламп. Схемы соединены с техническими характеристиками в печатную инструкцию.",
+        "A manual for the Palermo ceiling chandelier: construction, fasteners, mounting bracket, shades and bulb installation, alongside the technical specifications."
+      ],
+      "kind": "drawing",
+      "hero": "assets/final/manual-54735-drawing.webp",
+      "images": [
+        "assets/final/manual-54735-drawing.webp",
+        "assets/final/manual-54735-1.webp",
+        "assets/final/manual-54735-2.webp"
+      ],
+      "pdf": "assets/final/manual-54735.pdf",
+      "verified": true,
+      "coverRatio": 1.675549633577615
+    },
+    {
+      "id": "manual-52941",
+      "title": [
+        "Подвесная люстра",
+        "Pendant chandelier"
+      ],
+      "description": [
+        "Техническая графика подвесной люстры: общий вид, крепёж, монтажная планка и последовательность сборки плафона. В кейсе — схемы крупным планом и полный паспорт изделия.",
+        "Technical illustrations of a pendant chandelier: overall form, fasteners, mounting bracket and shade assembly. The case shows enlarged diagrams and the complete manual."
+      ],
+      "kind": "drawing",
+      "hero": "assets/final/manual-52941-drawing.webp",
+      "images": [
+        "assets/final/manual-52941-drawing.webp",
+        "assets/final/manual-52941-1.webp",
+        "assets/final/manual-52941-2.webp"
+      ],
+      "pdf": "assets/final/manual-52941.pdf",
+      "verified": true,
+      "coverRatio": 1.675549633577615
+    },
+    {
+      "id": "manual-54581",
+      "title": [
+        "Торшер на треноге",
+        "Tripod floor lamp"
+      ],
+      "description": [
+        "Паспорт напольного светильника: фактурный плафон, опоры треноги, крепёж и установка лампы. Авторские схемы показывают составные части и порядок сборки торшера.",
+        "A floor-lamp manual showing the textured shade, tripod legs, fasteners and bulb installation. Original diagrams explain the parts and assembly sequence."
+      ],
+      "kind": "drawing",
+      "hero": "assets/final/manual-54581-drawing.webp",
+      "images": [
+        "assets/final/manual-54581-drawing.webp",
+        "assets/final/manual-54581-1.webp",
+        "assets/final/manual-54581-2.webp"
+      ],
+      "pdf": "assets/final/manual-54581.pdf",
+      "verified": true,
+      "coverRatio": 1.675549633577615
+    },
+    {
+      "id": "manual-54638",
+      "title": [
+        "Настольный светильник",
+        "Table lamp"
+      ],
+      "description": [
+        "Технические иллюстрации настольного светильника: общий вид, основание, декоративные элементы, плафоны и установка ламп. Схема сопровождает печатный паспорт изделия.",
+        "Technical illustrations of a table lamp: overall form, base, decorative elements, shades and bulb installation, prepared for the printed product manual."
+      ],
+      "kind": "drawing",
+      "hero": "assets/final/manual-54638-drawing.webp",
+      "images": [
+        "assets/final/manual-54638-drawing.webp",
+        "assets/final/manual-54638-1.webp",
+        "assets/final/manual-54638-2.webp"
+      ],
+      "pdf": "assets/final/manual-54638.pdf",
+      "verified": true,
+      "coverRatio": 1.675549633577615
+    },
+    {
+      "id": "manual-54639",
+      "title": [
+        "Торшер",
+        "Floor lamp"
+      ],
+      "description": [
+        "Инструкция для торшера: сборка стойки и основания, соединение декоративных элементов и установка ламп. Иллюстрации выстроены в последовательность сборки.",
+        "A floor-lamp manual showing stand and base assembly, decorative components and bulb installation as a clear sequence."
+      ],
+      "kind": "drawing",
+      "hero": "assets/final/manual-54639-drawing.webp",
+      "images": [
+        "assets/final/manual-54639-drawing.webp",
+        "assets/final/manual-54639-1.webp",
+        "assets/final/manual-54639-2.webp"
+      ],
+      "pdf": "assets/final/manual-54639.pdf",
+      "verified": true,
+      "coverRatio": 1.675549633577615
+    },
+    {
+      "id": "manual-29508",
+      "title": [
+        "Светодиодная лента / Комплект",
+        "LED strip / Kit"
+      ],
+      "description": [
+        "Инструкция для комплекта светодиодной ленты: состав комплекта, устройство пульта, резка и схема подключения. Авторские векторные рисунки помогают разобраться в установке и управлении.",
+        "A manual for an LED strip kit covering its components, remote control, cutting and wiring. Original vector illustrations explain installation and operation."
+      ],
+      "kind": "drawing",
+      "hero": "assets/final/manual-29508-1.webp",
+      "images": [
+        "assets/final/manual-29508-1.webp",
+        "assets/final/manual-29508-2.webp"
+      ],
+      "pdf": "assets/final/manual-29508.pdf",
+      "verified": true,
+      "coverRatio": 0.7052896725440806
+    },
+    {
+      "id": "manual-29511",
+      "title": [
+        "ИК-выключатель на препятствие",
+        "Obstacle-sensing IR switch"
+      ],
+      "description": [
+        "Инструкция для инфракрасного выключателя: устройство датчика, правильное положение при монтаже и схема подключения к светодиодной ленте. Рисунки и пояснения собраны в двуязычный паспорт.",
+        "A manual for an infrared switch: sensor components, correct mounting position and LED-strip wiring. Drawings and explanations form a bilingual product manual."
+      ],
+      "kind": "drawing",
+      "hero": "assets/final/manual-29511-1.webp",
+      "images": [
+        "assets/final/manual-29511-1.webp",
+        "assets/final/manual-29511-2.webp"
+      ],
+      "pdf": "assets/final/manual-29511.pdf",
+      "verified": true,
+      "coverRatio": 0.7052896725440806
+    },
+    {
+      "id": "manual-convector",
+      "title": [
+        "Конвектор / Паспорт",
+        "Convector / Manual"
+      ],
+      "description": [
+        "Двенадцатистраничный паспорт электрического конвектора «Ультра»: внешний вид, размеры, установка опор и настенное крепление, органы управления и правила эксплуатации.",
+        "A twelve-page manual for the Ultra electric convector: appearance, dimensions, supports and wall mounting, controls and operating instructions."
+      ],
+      "kind": "drawing",
+      "hero": "assets/final/manual-convector-drawing.webp",
+      "images": [
+        "assets/final/manual-convector-drawing.webp",
+        "assets/final/manual-convector-1.webp",
+        "assets/final/manual-convector-2.webp",
+        "assets/final/manual-convector-3.webp",
+        "assets/final/manual-convector-4.webp",
+        "assets/final/manual-convector-5.webp",
+        "assets/final/manual-convector-6.webp",
+        "assets/final/manual-convector-7.webp",
+        "assets/final/manual-convector-8.webp",
+        "assets/final/manual-convector-9.webp",
+        "assets/final/manual-convector-10.webp",
+        "assets/final/manual-convector-11.webp",
+        "assets/final/manual-convector-12.webp"
+      ],
+      "pdf": "assets/final/manual-convector.pdf",
+      "verified": true,
+      "coverRatio": 0.70996640537514
+    }
+  ]
+}

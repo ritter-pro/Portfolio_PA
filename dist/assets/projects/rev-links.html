@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<title>Ritter | Свет твоих эмоций</title>
+
+
+<style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #03080a; /* Базовый темный цвет */
+            color: white;
+            overflow-x: hidden;
+        }
+
+        /* 
+           Специальные слои фона для 100% плавности в Яндексе и Safari.
+           Используем opacity вместо background-position. 
+        */
+        .bg-layer {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            z-index: 0;
+            /* Форсируем рендеринг через GPU (видеокарту) */
+            -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            will-change: opacity;
+        }
+
+        /* Слой 1: Глубокий синий/фиолетовый */
+        .bg-layer-1 {
+            background: radial-gradient(circle at 20% 30%, #00265c 0%, transparent 70%);
+            animation: pulse-1 12s infinite alternate ease-in-out;
+        }
+
+        /* Слой 2: Изумрудный/Темно-зеленый */
+        .bg-layer-2 {
+            background: radial-gradient(circle at 80% 80%, #00120f 0%, transparent 70%);
+            animation: pulse-2 15s infinite alternate ease-in-out;
+        }
+
+        /* Слой 3: Пурпурный/Малиновый */
+        .bg-layer-3 {
+            background: radial-gradient(circle at 50% 10%, #1a1442 0%, transparent 60%);
+            animation: pulse-3 10s infinite alternate ease-in-out;
+        }
+
+        @keyframes pulse-1 {
+            0% { opacity: 0.3; }
+            100% { opacity: 1; }
+        }
+        @keyframes pulse-2 {
+            0% { opacity: 1; }
+            100% { opacity: 0.2; }
+        }
+        @keyframes pulse-3 {
+            0% { opacity: 0.4; }
+            100% { opacity: 1; }
+        }
+
+        .glass-btn {
+            background: rgba(255, 255, 255, 0.04);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            
+            /* Усиленное базовое свечение */
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.4), inset 0 0 10px rgba(255, 255, 255, 0.05);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            max-width: 280px; /* Сделали кнопки уже */
+            padding: 14px 20px;
+            border-radius: 14px;
+            text-decoration: none;
+            color: white;
+            font-weight: 400;
+            letter-spacing: 0.05em;
+            margin: 0 auto;
+        }
+        
+        /* Свечение при наведении (для ПК) */
+        .glass-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+            /* Очень мощное белое свечение */
+            box-shadow: 0 0 35px rgba(255, 255, 255, 0.9);
+            border-color: rgba(255, 255, 255, 0.5);
+            transform: translateY(-2px);
+        }
+
+        /* Реакция на нажатие пальцем (для телефонов) */
+        .glass-btn:active {
+            transform: scale(0.95);
+            /* Максимальная вспышка при касании */
+            box-shadow: 0 0 45px rgba(255, 255, 255, 1);
+            background: rgba(255, 255, 255, 0.15);
+            transition: all 0.1s; /* Мгновенная реакция */
+        }
+
+        /* Анимация появления элементов при загрузке */
+        .fade-in {
+            animation: fadeIn 1.2s ease-out forwards;
+            opacity: 0;
+            transform: translateY(15px);
+        }
+
+        .delay-100 { animation-delay: 0.2s; }
+        .delay-200 { animation-delay: 0.4s; }
+
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col items-center justify-center p-6 selection:bg-white/30 relative">
+<!-- Анимированные фоновые слои (исправляют Яндекс Браузер) -->
+<div class="bg-layer bg-layer-1"></div>
+<div class="bg-layer bg-layer-2"></div>
+<div class="bg-layer bg-layer-3"></div>
+<!-- Основной контент (z-10, чтобы быть поверх фона) -->
+<main class="w-full max-w-[320px] flex flex-col items-center gap-12 z-10 relative">
+<div class="flex flex-col items-center gap-3 fade-in w-full">
+<img alt="RITTER" class="w-full h-auto object-contain drop-shadow-[0_0_15px_rgba(255,255,255,0.2)]" src="rev-links-0.png"/>
+<!-- Тонкий шрифт, широкий трекинг -->
+<h1 class="text-white/80 font-light text-[12px] tracking-[0.25em] uppercase text-center mt-2">
+                Свет твоих эмоций
+            </h1>
+</div>
+<div class="flex flex-col gap-6 w-full fade-in delay-100">
+<!-- Кнопка 1: Почта -->
+<div class="flex flex-col gap-2 w-full items-center text-center">
+<span class="text-[10px] text-white/50 uppercase tracking-widest font-light">
+                    Связаться с нами
+                </span>
+<a class="glass-btn" href="#">
+                    design-studio@rev.ru
+                </a>
+</div>
+<!-- Кнопка 2: Сайт -->
+<div class="flex flex-col gap-2 w-full items-center text-center">
+<span class="text-[10px] text-white/50 uppercase tracking-widest font-light">
+                    Наш сайт
+                </span>
+<a class="glass-btn" href="#" rel="noopener noreferrer">
+                    ritter.pro/ru/
+                </a>
+</div>
+</div>
+</main>
+<footer class="absolute bottom-6 w-full text-center fade-in delay-200 z-10 pointer-events-none">
+<p class="text-white/20 text-[10px] tracking-widest uppercase font-light">
+            © RITTER DESIGN STUDIO
+        </p>
+</footer>
+</body>
+</html>

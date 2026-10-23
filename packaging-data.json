@@ -1,0 +1,383 @@
+[
+  {
+    "slug": "eclipse",
+    "title": "ЭКЛИПС",
+    "titleEn": "ECLIPSE",
+    "brand": "Ritter",
+    "color": "#9a75ff",
+    "kind": "squares",
+    "images": [
+      "1NCfdj77Pyd4kUzMSLLCwB7ajhBliip7y.webp"
+    ],
+    "nets": [
+      {
+        "file": "1LyTzr6o6OctyBHudPyq-B06OpMWDinFS.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Геометрия света. Упаковка с ощущением глубины.",
+    "shortEn": "Geometry of light. Packaging with a sense of depth.",
+    "design": "Тёмная фиолетовая палитра превращает светящуюся геометрию люстры в главный акцент. Крупное изображение читается первым, затем взгляд переходит к названию и характеристикам.",
+    "designEn": "A dark violet palette makes the luminous geometry of the chandelier the focal point. The product image comes first, followed by the name and specifications.",
+    "details": "Тонкий геометрический паттерн связывает грани коробки. Контрастная полоса отделяет название категории от изображения, а техническая информация вынесена на оборот.",
+    "detailsEn": "A fine geometric pattern connects the box faces. A contrasting band separates the category from the product image, with technical information on the reverse.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "arton",
+    "title": "АРТОН",
+    "titleEn": "ARTON",
+    "brand": "Ritter",
+    "color": "#69f39b",
+    "kind": "spots",
+    "images": [
+      "1w5QHvL-sNKxdA1FUYLqLW9p4GrWEqS-u.webp"
+    ],
+    "nets": [
+      {
+        "file": "1yAM-ZHbwdK_RxHQUAfqLvBKb_WYfNXL9.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Три источника света. Один точный визуальный ритм.",
+    "shortEn": "Three light sources. One precise visual rhythm.",
+    "design": "Вытянутый формат поддерживает форму самого светильника. Три направленных спота создают ритм, а зелёная полоса помогает быстро найти категорию товара.",
+    "designEn": "The elongated format follows the luminaire itself. Three directional spots create a rhythm, while a green band makes the product category easy to find.",
+    "details": "Фотография, световые пятна и тёмный фон работают вместе: показывают объём чёрного корпуса и характер направленного света. На развёртке видна система распределения информации по граням.",
+    "detailsEn": "Photography, pools of light and a dark background reveal the black housing and directional illumination. The dieline shows how information is distributed across the faces.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "trampoli",
+    "title": "ТРАМПОЛИ / серия",
+    "titleEn": "TRAMPOLI / series",
+    "brand": "Ritter",
+    "color": "#d9b282",
+    "kind": "squares",
+    "images": [
+      "1occytmdrddFGBi3xzswL-bm11d6fXrVn.webp",
+      "1nx9AnSotwfX7FcMLO-AqTnvA45uSFcAo.webp",
+      "1sYGKuqRRBOpEVUh9CrPzLiUj6Jh5Nm77.webp",
+      "1Qz4GhmQIrsps2po_oSY9fqZxbxcGd4es.webp"
+    ],
+    "nets": [
+      {
+        "file": "1YcnTZ1ftjhgd-sfYs6YxVypNxLiTMldv.webp",
+        "label": "Развёртка упаковки"
+      },
+      {
+        "file": "1LbpcDbf4FRxqYce6rsfPiRkdifGw_6LU.webp",
+        "label": "Развёртка упаковки"
+      },
+      {
+        "file": "1AOvQSNxq8-zdD63nnm3zeaOcT0xq_59F.webp",
+        "label": "Развёртка упаковки"
+      },
+      {
+        "file": "12_DCQw8u0BiJkagQt-3ZfgMA1zezSGt6.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Крафт, чертёж и четыре композиционных решения.",
+    "shortEn": "Kraft, line drawing and four compositional studies.",
+    "design": "Природный тон картона и чёрная линейная графика создают сдержанную, техническую подачу. Форма люстры становится основой и для рисунка, и для геометрического паттерна.",
+    "designEn": "The natural cardboard tone and black linework create a restrained technical presentation. The chandelier geometry informs both the drawing and the pattern.",
+    "details": "Четыре варианта показывают поиск баланса между паттерном, свободным пространством и плотностью информации. Внутри кейса можно сравнить лицевую и оборотную стороны, а затем рассмотреть каждую развёртку.",
+    "detailsEn": "Four versions explore the balance between pattern, open space and information density. Compare front and back views, then inspect each dieline.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "trampoli-compact",
+    "title": "ТРАМПОЛИ / компакт",
+    "titleEn": "TRAMPOLI / compact",
+    "brand": "Ritter",
+    "color": "#cba275",
+    "kind": "squares",
+    "images": [
+      "generated-tramp.webp"
+    ],
+    "nets": [
+      {
+        "file": "1V0ScilcOEb16vDF1ZEdpjWPV5LzuXkMz.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Малая коробка. Полная система визуальной навигации.",
+    "shortEn": "A compact box. A complete visual navigation system.",
+    "design": "Линейный рисунок показывает конструкцию люстры, не споря с текстом. Чёрные информационные плашки создают понятную иерархию на тёплом крафтовом фоне.",
+    "designEn": "A line drawing communicates the chandelier construction without competing with the copy. Black information panels establish a clear hierarchy on warm kraft.",
+    "details": "Паттерн продолжается на боковых гранях и собирает упаковку в единый объект. Макет объединяет продуктовую иллюстрацию, функции, техническую таблицу и служебную маркировку.",
+    "detailsEn": "The pattern extends across the side panels to unify the package. Product illustration, features, a technical table and required markings share one system.",
+    "note": "Объёмная визуализация создана по развёртке для портфолио. Исходный дизайн показан ниже.",
+    "noteEn": "The 3D mockup was generated from the dieline for this portfolio. The original artwork is shown below."
+  },
+  {
+    "slug": "torino",
+    "title": "ТОРИНО",
+    "titleEn": "TORINO",
+    "brand": "Ritter",
+    "color": "#30dbbc",
+    "kind": "sconce",
+    "images": [
+      "generated-torino.webp"
+    ],
+    "nets": [
+      {
+        "file": "1Rqh6ri4RnypVq5fNg_TDelS0nyQF83MQ.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Золото и стекло в изумрудном свете.",
+    "shortEn": "Gold and glass in an emerald glow.",
+    "design": "Глубокий зелёный фон подчёркивает золотистые детали бра и прозрачность рифлёного плафона. Световой ореол удерживает внимание на самом изделии.",
+    "designEn": "A deep green background highlights the golden sconce details and the transparency of its ribbed shade. A soft halo draws attention to the product.",
+    "details": "Орнамент и повторяющиеся предметные мотивы формируют окружение, а белый логотип и подписи сохраняют контраст. Развёртка показывает, как изображение адаптировано к разным граням.",
+    "detailsEn": "Ornament and repeated product motifs create the setting, while a white logo and labels maintain contrast. The dieline shows how the imagery adapts to different faces.",
+    "note": "Объёмная визуализация создана по развёртке для портфолио. Исходный дизайн показан ниже.",
+    "noteEn": "The 3D mockup was generated from the dieline for this portfolio. The original artwork is shown below."
+  },
+  {
+    "slug": "ultra",
+    "title": "УЛЬТРА",
+    "titleEn": "ULTRA",
+    "brand": "duwi",
+    "color": "#e4bd81",
+    "kind": "heater",
+    "images": [
+      "16IaxcKl6vpT0_1tnFjP2vMGtER1K29jd.webp"
+    ],
+    "nets": [
+      {
+        "file": "1ydfF-SGygw7sdIh1ncSMPik5al661ij2.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Крупная техника. Чёткая структура.",
+    "shortEn": "Large appliance. Clear structure.",
+    "design": "Крафтовая поверхность и монохромная графика делают упаковку конвектора собранной и практичной. Крупное изображение сохраняет узнаваемый силуэт прибора.",
+    "designEn": "Kraft and monochrome graphics give the convector packaging a practical, structured character. A large image preserves the recognisable appliance silhouette.",
+    "details": "Преимущества сгруппированы в пиктограммы и контрастные блоки. Служебные данные занимают отдельные зоны, поэтому лицевая сторона остаётся читаемой даже при большом количестве характеристик.",
+    "detailsEn": "Benefits are grouped into icons and contrasting panels. Service information occupies separate zones, keeping the front readable despite the extensive specifications.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "standard",
+    "title": "СТАНДАРТ",
+    "titleEn": "STANDARD",
+    "brand": "duwi",
+    "color": "#d5b69a",
+    "kind": "heater",
+    "images": [
+      "1R87bRFweYyFexxD3KRwU7GFQ1jJbqGLg.webp"
+    ],
+    "nets": [
+      {
+        "file": "1w2M4li-MpgwDmNQwDaT4Xejb55uivk5Z.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Упаковочная система для семейства конвекторов.",
+    "shortEn": "A packaging system for a family of convectors.",
+    "design": "Монохромная композиция опирается на крупный чертёж прибора, заметный логотип и простую типографику. Силуэт конвектора становится главным ориентиром.",
+    "designEn": "A monochrome composition relies on a large appliance drawing, a prominent logo and straightforward typography. The convector silhouette is the primary visual cue.",
+    "details": "Общая структура позволяет сохранять узнаваемость серии при изменении модели и характеристик. Крафтовый тон объединяет лицевую, боковую и техническую поверхности.",
+    "detailsEn": "A shared layout maintains a recognisable series across different models and specifications. The kraft tone unifies the front, side and technical panels.",
+    "note": "Мокап и развёртка показывают разные модели одной серии. Сохранена общая система оформления.",
+    "noteEn": "The mockup and dieline show different models from the same series, using a shared design system."
+  },
+  {
+    "slug": "comfort-compact",
+    "title": "COMFORT / компакт",
+    "titleEn": "COMFORT / compact",
+    "brand": "R HOME",
+    "color": "#b796fa",
+    "kind": "steamer",
+    "images": [
+      "1srPoJkqCSkV82HUm8GuslkfnMp_vJVJ7.webp"
+    ],
+    "nets": [
+      {
+        "file": "1hx4ZjF20xitG5pSUhG2u0LprsoZk9gyU.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Чёрный фон. Пар. Продукт в действии.",
+    "shortEn": "Black backdrop. Steam. The product in action.",
+    "design": "Изображение отпаривателя и облако пара сразу объясняют назначение товара. Тёмная поверхность коробки подчёркивает светлый корпус и цветные детали.",
+    "designEn": "The steamer image and cloud of steam immediately explain the product. A dark box surface highlights the light housing and coloured details.",
+    "details": "Крупный предметный кадр уравновешен спокойной типографикой. Пиктограммы собраны в нижней части, а технические блоки распределены по остальным граням.",
+    "detailsEn": "A large product image is balanced by restrained typography. Icons sit along the bottom, while technical information is distributed across the other faces.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "comfort",
+    "title": "COMFORT",
+    "titleEn": "COMFORT",
+    "brand": "R HOME",
+    "color": "#98b4ff",
+    "kind": "steamer",
+    "images": [
+      "1ajTARwrofzqNS8yYrVc_07pAHIgWF7uK.webp"
+    ],
+    "nets": [
+      {
+        "file": "1fUDmDMb-SvYFu5TKxN0Yg-bmWC_fa8Fq.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Предметная фотография как главный аргумент.",
+    "shortEn": "Product photography as the central message.",
+    "design": "Диагональ корпуса и движение пара добавляют динамику статичной коробке. Графитовый фон подчёркивает металлические детали и светлые блики.",
+    "designEn": "The diagonal housing and flowing steam add movement to the static box. A graphite backdrop emphasises metallic details and highlights.",
+    "details": "Две видимые грани продолжают одну историю продукта: крупный ракурс на лицевой стороне, дополнительный вид и информация сбоку. Белая типографика сохраняет единство серии COMFORT.",
+    "detailsEn": "Two visible faces continue the same product story: a large front view, plus another angle and information on the side. White typography unifies the COMFORT series.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "sensor",
+    "title": "ДАТЧИК ДВИЖЕНИЯ",
+    "titleEn": "MOTION SENSOR",
+    "brand": "duwi",
+    "color": "#3be6e9",
+    "kind": "sensor",
+    "images": [
+      "1-rpLjNmb-awhlOga4jsv-FGL7KAo5HwP.webp"
+    ],
+    "nets": [
+      {
+        "file": "16RAzlWP9lmyXw2Mr8Vagss0jXbQd9iOO.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Технические параметры, которые легко найти.",
+    "shortEn": "Technical details that are easy to find.",
+    "design": "Бирюзовая палитра выделяет упаковку, а белые блоки превращают ключевые параметры в быстрые визуальные ориентиры. Изображение датчика остаётся крупным и читаемым.",
+    "designEn": "A turquoise palette gives the package presence, while white panels turn key specifications into quick visual cues. The sensor image remains large and readable.",
+    "details": "Геометрический фон связывает стороны коробки. Короткие подписи, цифры и схемы помогают отделить назначение устройства от подробной технической информации.",
+    "detailsEn": "A geometric background connects the box faces. Short labels, numbers and diagrams separate the device purpose from detailed technical information.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "led",
+    "title": "LED / E27",
+    "titleEn": "LED / E27",
+    "brand": "Ritter",
+    "color": "#ef65dd",
+    "kind": "bulb",
+    "images": [
+      "16iruzX8SFV3ACtnBiDIsWj0t6FJA8EJR.webp",
+      "1uTdOUs8O-DyRDcEzAEUpCPh1H7xjT0iu.webp"
+    ],
+    "nets": [
+      {
+        "file": "1pOwxM6onG6DqirssERaY8jp5plV0qh2K.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Небольшой формат с ярким характером.",
+    "shortEn": "A small format with a vivid character.",
+    "design": "Фиолетовая палитра и круговые мотивы создают узнаваемое окружение белой лампы. Крупная предметная фотография работает вместе с заметной маркировкой мощности и цоколя.",
+    "designEn": "A violet palette and circular motifs create a recognisable setting for the white bulb. Large product photography works with prominent wattage and base markings.",
+    "details": "На компактных гранях выстроен порядок чтения: бренд, изображение, тип лампы и характеристики. В кейсе показаны два ракурса и полная развёртка.",
+    "detailsEn": "The compact faces follow a clear reading order: brand, image, lamp type and specifications. The case includes two views and the full dieline.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "agio",
+    "title": "AGIO",
+    "titleEn": "AGIO",
+    "brand": "Ritter",
+    "color": "#b7e8f2",
+    "kind": "agio",
+    "images": [
+      "1C5UjrYdZQBeusylKD4fRLSNybcoKJI33.webp"
+    ],
+    "nets": [
+      {
+        "file": "1LprICdoIlF1VhB3P6OnLImkXM_eYMX8x.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Белая коробка. Точность чёрной линии.",
+    "shortEn": "A white box. Precision in black lines.",
+    "design": "Минимальная палитра даёт пространство детальному рисунку настенного светильника. Линейная графика показывает форму и фактуру, сохраняя лёгкость композиции.",
+    "designEn": "A minimal palette gives room to a detailed drawing of the wall light. Linework reveals form and texture while keeping the composition light.",
+    "details": "Логотип, название и техническая информация разделены по масштабу. Иллюстрация продолжается на соседней грани, поэтому упаковка читается как объёмный объект.",
+    "detailsEn": "Logo, name and technical information are separated by scale. The illustration continues onto the adjacent face, making the package read as a three-dimensional object.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "chiaro-wall",
+    "title": "CHIARO / бра",
+    "titleEn": "CHIARO / wall",
+    "brand": "Ritter",
+    "color": "#c198ff",
+    "kind": "sconce",
+    "images": [
+      "1OiKbQR6DAj0jeA8Hsh5cg6Jgg0mfSBca.webp"
+    ],
+    "nets": [
+      {
+        "file": "1CnXDLWH2fVlvI3ilQtu7fI06RVZLLwPL.webp",
+        "label": "Развёртка упаковки"
+      }
+    ],
+    "short": "Свет, который раскрывает фактуру.",
+    "shortEn": "Light that reveals texture.",
+    "design": "Светящийся край и фактура плафона становятся главным событием на глубоком фиолетовом фоне. Красная полоса задаёт чёткую границу между изображением и названием категории.",
+    "designEn": "A luminous edge and the shade texture become the main event against deep violet. A red band clearly separates the image from the product category.",
+    "details": "Повторяющиеся формы и тонкий паттерн связывают разные стороны. Упаковка совмещает эмоциональную предметную подачу с отдельным блоком технических данных.",
+    "detailsEn": "Repeated shapes and a fine pattern connect the different faces. The package combines expressive product presentation with a separate technical information panel.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "chiaro-round",
+    "title": "CHIARO / круг",
+    "titleEn": "CHIARO / round",
+    "brand": "Ritter",
+    "color": "#f0b4e0",
+    "kind": "round",
+    "images": [
+      "1n-n3C9kpA3hqaS7JZZ7GqygULvZYLrtl.webp"
+    ],
+    "nets": [],
+    "short": "Световой круг на тёмной сцене.",
+    "shortEn": "A circle of light on a dark stage.",
+    "design": "Круглый светильник показан крупно: золотистый центр и рисунок прозрачного плафона становятся визуальным центром коробки. Фиолетовый фон усиливает световой контраст.",
+    "designEn": "The round light is shown at scale: its golden centre and transparent shade pattern become the visual focus. A violet backdrop intensifies the contrast.",
+    "details": "Тонкая фоновая геометрия и контрастная красная полоса продолжают язык серии CHIARO. Вертикальная грань поддерживает узнаваемость бренда при боковой выкладке.",
+    "detailsEn": "Fine background geometry and a contrasting red band continue the CHIARO visual language. The vertical side panel maintains brand recognition from a side view.",
+    "note": "",
+    "noteEn": ""
+  },
+  {
+    "slug": "ferrules",
+    "title": "НАКОНЕЧНИКИ НШВИ",
+    "titleEn": "INSULATED FERRULES",
+    "brand": "duwi",
+    "color": "#de88f3",
+    "kind": "ferrules",
+    "images": [
+      "134QmvtVSEQRzQCyry4UeTbzUYq-qPg7R.webp"
+    ],
+    "nets": [],
+    "short": "Мелкая электротехника. Крупная иерархия.",
+    "shortEn": "Small electrical parts. Strong hierarchy.",
+    "design": "Вытянутый пакет использует фиолетовый верхний блок как зону бренда и названия. Изображения наконечников показывают форму изделия, а белое поле делает содержимое легче для восприятия.",
+    "designEn": "The tall pouch uses a violet upper panel for the brand and name. Ferrule images show the product shape, while a white area keeps the content easy to read.",
+    "details": "Контрастные плашки собирают сечение, напряжение, степень защиты и длину в один информационный столбец. Нижний цветовой блок завершает композицию и выделяет количество.",
+    "detailsEn": "Contrasting panels collect conductor size, voltage, protection rating and length into one information column. A coloured lower block completes the composition and highlights quantity.",
+    "note": "",
+    "noteEn": ""
+  }
+]

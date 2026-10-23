@@ -1,0 +1,22 @@
+/* Compact illustrated modules with accessible details. */
+body[data-page=home] #modules .module-info{position:relative;display:block;min-height:0;padding:22px;align-self:start;transition:transform .55s cubic-bezier(.2,.8,.2,1),border-color .4s,box-shadow .5s;background:linear-gradient(140deg,#161225dd,#090b14f5)}
+.module-diagram{height:130px;color:var(--accent);display:flex;align-items:center;justify-content:center;margin:10px 0 0;pointer-events:none}
+.module-diagram svg{height:100%;width:100%;max-width:200px;filter:drop-shadow(0 0 10px color-mix(in srgb,var(--accent) 25%,transparent));transition:transform .65s}
+.module-diagram .diagram-detail{opacity:.5;stroke-dasharray:400;stroke-dashoffset:0;transition:opacity .5s,stroke-dashoffset 1.2s}
+.module-info:is(:hover,:focus-within,.expanded) .module-diagram svg{transform:translateY(-5px) rotate(-4deg) scale(1.07)}
+.module-info:is(:hover,:focus-within,.expanded) .diagram-detail{opacity:1;stroke-dashoffset:24}
+body[data-page=home] #modules .module-info h3{margin:10px 0 8px;font-size:19px;line-height:1.35}
+.module-info h3 a{display:block}.module-info>p{min-height:32px}.module-expand{font:9px var(--mono);letter-spacing:1px;padding:14px 0 8px;color:var(--accent);min-height:44px;text-align:left}
+.module-more{display:grid;grid-template-rows:0fr;opacity:0;transition:grid-template-rows .5s,opacity .5s}.module-more>div{overflow:hidden;min-height:0}
+.module-info.expanded .module-more{grid-template-rows:1fr;opacity:1}
+.module-process{display:block;font:8px/1.8 var(--mono);color:var(--accent);padding:12px 0;border-top:1px solid #ffffff15}.module-more p{line-height:1.7;padding:0 0 12px}.module-enter{display:block;color:var(--accent);font-size:11px;padding:8px 0}
+@media(hover:hover){.module-info:hover .module-more,.module-info .module-more:focus-within{grid-template-rows:1fr;opacity:1}body[data-page=home] #modules .module-info:hover{transform:translateY(-8px);box-shadow:0 15px 45px #0005,0 0 25px color-mix(in srgb,var(--accent) 12%,transparent);border-color:var(--accent)}}
+/* Scroll entrances are added only after JS is ready. Content stays available without JS. */
+.cinema-ready .cinema-item{opacity:.18;transform:translateY(26px);transition:opacity .85s ease,transform .95s cubic-bezier(.18,.8,.25,1);transition-delay:var(--cinema-delay,0ms)}
+.cinema-ready .cinema-item.cinema-visible{opacity:1;transform:none}
+.timeline article,.passport-identity,.two-cols article,.pack-story>div{transition:background .45s,box-shadow .45s,translate .55s}
+@media(hover:hover){.timeline article:hover,.two-cols article:hover{background:linear-gradient(90deg,#7331bd15,transparent);translate:5px 0}.pack-story>div:hover{translate:0 -4px}.passport-identity:hover{box-shadow:-12px 0 40px #00dfff0b}}
+.section>h2,.section-heading h2{transition:text-shadow .6s}.section:hover>h2 em,.section-heading:hover h2 em{text-shadow:0 0 25px #9064ff44}
+@media(max-width:700px){.module-diagram{height:100px}.module-diagram svg{max-width:150px}body[data-page=home] #modules .module-info{padding:16px}body[data-page=home] #modules .module-info h3{font-size:17px}.module-process{font-size:7px}}
+.no-motion .cinema-item{opacity:1;transform:none;transition:none}.no-motion .module-diagram svg,.no-motion .diagram-detail,.no-motion .module-more{transition:none;transform:none}.no-motion .module-info:hover{transform:none!important}
+@media(prefers-reduced-motion:reduce){.cinema-ready .cinema-item{opacity:1;transform:none;transition:none}.module-diagram svg,.diagram-detail,.module-more{transition:none;transform:none!important}}

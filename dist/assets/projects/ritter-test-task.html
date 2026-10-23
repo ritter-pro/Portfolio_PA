@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="#03080a" name="theme-color"/>
+<meta content="Тестовое задание для новых сотрудников RITTER: упаковка и инструкция к настенному светильнику 54597_6." name="description"/>
+<title>Тестовое задание · RITTER</title>
+<style>
+    :root{color-scheme:dark;--bg:#03080a;--text:#f7f8fb;--muted:#a5adba;--line:rgba(255,255,255,.14);--glass:rgba(255,255,255,.055);--cyan:#41d9ff;--violet:#a478ff;--green:#64efb0;--yellow:#ffda72}
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;min-height:100vh;background:var(--bg);color:var(--text);font:400 16px/1.65 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;overflow-x:hidden}
+    .glow{position:fixed;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(ellipse at 15% 8%,rgba(0,83,175,.35),transparent 39%),radial-gradient(ellipse at 88% 37%,rgba(87,35,143,.28),transparent 37%),radial-gradient(ellipse at 46% 94%,rgba(0,100,87,.18),transparent 42%)}
+    .wrap{width:min(100% - 36px,940px);margin-inline:auto}
+    header{padding:44px 0 24px;text-align:center}
+    .logo{display:block;width:min(215px,58vw);height:auto;margin:0 auto 12px;filter:drop-shadow(0 0 18px rgba(255,255,255,.18))}
+    .tag{color:#c5cbd5;font-size:.76rem;letter-spacing:.24em;text-transform:uppercase}
+    .hero{padding:34px 0 42px;text-align:center}
+    .eyebrow{display:inline-flex;align-items:center;gap:9px;border:1px solid var(--line);border-radius:999px;padding:6px 13px;color:#dce7f5;background:rgba(255,255,255,.04);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase}
+    .dot{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 14px var(--green)}
+    h1{max-width:820px;margin:22px auto 13px;font-size:clamp(2rem,6vw,4.35rem);font-weight:400;line-height:1.08;letter-spacing:-.045em}
+    .lead{max-width:680px;margin:0 auto;color:#c0c8d5;font-size:clamp(1rem,2.3vw,1.16rem)}
+    .download-area{margin:28px auto 0;max-width:560px}
+    .download{display:inline-flex;align-items:center;justify-content:center;gap:11px;min-height:54px;padding:12px 22px;border:1px solid rgba(255,255,255,.35);border-radius:15px;color:#fff;text-decoration:none;background:linear-gradient(110deg,rgba(42,148,255,.2),rgba(158,103,255,.22),rgba(45,226,170,.16));box-shadow:0 0 28px rgba(73,137,255,.2),inset 0 0 16px rgba(255,255,255,.05);backdrop-filter:blur(16px);transition:transform .2s,border-color .2s,box-shadow .2s}
+    .download:hover{transform:translateY(-2px);border-color:rgba(255,255,255,.65);box-shadow:0 0 34px rgba(91,150,255,.36)}
+    .download[hidden]{display:none}
+    .download-note{margin:10px auto 0;color:#8993a1;font-size:.82rem}
+    .task-list{display:grid;gap:15px;padding:4px 0 70px}
+    details{border:1px solid var(--line);border-radius:22px;background:linear-gradient(135deg,rgba(255,255,255,.065),rgba(255,255,255,.025));backdrop-filter:blur(18px);overflow:hidden;box-shadow:0 18px 60px rgba(0,0,0,.18)}
+    details[open]{border-color:rgba(119,174,255,.38)}
+    summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:18px;padding:23px 25px;min-height:91px}
+    summary::-webkit-details-marker{display:none}
+    .num{flex:none;width:44px;height:44px;display:grid;place-items:center;border:1px solid rgba(100,205,255,.4);border-radius:14px;color:#aeeaff;background:rgba(40,160,255,.12);font-size:1.12rem}
+    .sum-copy{flex:1;min-width:0}
+    .sum-copy strong{display:block;font-size:1.13rem;font-weight:500;line-height:1.35}
+    .sum-copy small{display:block;margin-top:4px;color:var(--muted);font-size:.87rem}
+    .chev{width:12px;height:12px;flex:none;border-right:1.5px solid #dce8f5;border-bottom:1.5px solid #dce8f5;transform:rotate(45deg);transition:transform .2s;margin:0 5px 6px}
+    details[open] .chev{transform:rotate(225deg);margin-bottom:-6px}
+    .content{padding:0 28px 29px 87px;color:#d7dce5}
+    .content h2{margin:19px 0 7px;color:#fff;font-size:1rem;font-weight:500}
+    .content p{margin:7px 0}
+    .content ul{margin:8px 0 15px;padding-left:20px}
+    .content li{padding:3px 0}
+    .subhead{color:#fff;font-weight:500}
+    .note{margin:16px 0;padding:13px 15px;border-left:2px solid var(--yellow);border-radius:0 12px 12px 0;background:rgba(255,218,114,.07);color:#f2e7c4;font-size:.92rem}
+    .figures{display:grid;grid-template-columns:1fr 1fr;gap:13px;margin:19px 0}
+    figure{margin:0;padding:9px;border:1px solid rgba(255,255,255,.13);border-radius:15px;background:rgba(2,5,10,.54)}
+    figure img{display:block;width:100%;height:auto;max-height:430px;object-fit:contain;border-radius:9px;background:#090b11}
+    figcaption{padding:9px 3px 2px;color:#aeb6c4;font-size:.78rem;line-height:1.45}
+    .deliver{margin-top:22px;padding-top:16px;border-top:1px solid var(--line)}
+    footer{padding:0 0 32px;text-align:center;color:#6f7886;font-size:.76rem;letter-spacing:.12em;text-transform:uppercase}
+    a:focus-visible,summary:focus-visible{outline:2px solid var(--cyan);outline-offset:4px}
+    @media(max-width:650px){.wrap{width:min(100% - 24px,940px)}header{padding-top:30px}.hero{padding-top:24px}.task-list{padding-bottom:48px}summary{padding:18px 16px;gap:13px}.num{width:38px;height:38px;border-radius:12px}.sum-copy strong{font-size:1rem}.sum-copy small{font-size:.8rem}.content{padding:0 17px 22px}.figures{grid-template-columns:1fr}.download{width:100%}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
+  </style>
+</head>
+<body>
+<div aria-hidden="true" class="glow"></div>
+<header class="wrap">
+<img alt="RITTER" class="logo" src="ritter-test-task-0.png"/>
+<div class="tag">Свет твоих эмоций</div>
+</header>
+<main class="wrap">
+<section aria-labelledby="page-title" class="hero">
+<span class="eyebrow"><span aria-hidden="true" class="dot"></span> RITTER DESIGN STUDIO</span>
+<h1 id="page-title">Тестовое задание</h1>
+<p class="lead">Подготовьте упаковку и инструкцию для настенного светильника, арт. 54597_6. Нажмите на задачу, чтобы открыть подробное описание.</p>
+<div class="download-area">
+<a class="download" hidden="" href="#" id="download">
+<span aria-hidden="true">↓</span> Скачать материалы для задания (ZIP)
+        </a>
+<p class="download-note" id="download-status" role="status">Архив с материалами пока не добавлен.</p>
+</div>
+</section>
+<section aria-label="Задания" class="task-list">
+<details>
+<summary>
+<span aria-hidden="true" class="num">01</span>
+<span class="sum-copy"><strong>Сверстать упаковку</strong><small>Композиция, изображение светильника и технический чертёж</small></span>
+<span aria-hidden="true" class="chev"></span>
+</summary>
+<div class="content">
+<p>Сверстайте упаковку настенного светильника по приложенному примеру и развёртке упаковки.</p>
+<h2>Логотип и композиция</h2>
+<ul>
+<li>Ширина логотипа — 30% ширины лицевой панели упаковки.</li>
+<li>Охранное поле вокруг логотипа и отступы до линий сгиба должны быть равны высоте строчных букв «er» в логотипе.</li>
+<li>Ширина фрагмента паттерна — 15% ширины лицевой панели.</li>
+<li>Размер плашек, названия товара и иконок соотнесите с высотой логотипа и примерами в материалах.</li>
+</ul>
+<div class="figures">
+<figure><img alt="Схема минимального свободного пространства вокруг логотипа RITTER" loading="lazy" src="ritter-test-task-1.png"/><figcaption>Охранное поле логотипа. Ориентируйтесь на высоту строчных букв «er».</figcaption></figure>
+<figure><img alt="Схема ширины фрагмента паттерна: 15 процентов ширины лицевой панели" loading="lazy" src="ritter-test-task-2.png"/><figcaption>Масштаб паттерна: ширина фрагмента составляет 15% ширины лицевой панели.</figcaption></figure>
+<figure><img alt="Пример лицевой панели упаковки с зонами логотипа, товара и информационных блоков" loading="lazy" src="ritter-test-task-3.png"/><figcaption>Пример расположения логотипа, изображения товара и информационных блоков на упаковке.</figcaption></figure>
+</div>
+<h2>Изображение и чертёж</h2>
+<ul>
+<li>Используйте фотографии светильника от фабрики. Обработайте изображение с помощью ИИ так, чтобы светильник был показан под тем же углом, что и в примере, и выглядел включённым.</li>
+<li>Уберите дефекты и аккуратно удалите фон. Проверьте края: на изображении не должно оставаться белой каймы.</li>
+<li>По итоговому изображению отрисуйте векторный чертёж светильника пером. На задней стороне упаковки разместите трёхмерный чертёж с размерами.</li>
+</ul>
+<h2>Тексты и подготовка файла</h2>
+<ul>
+<li>Технические характеристики возьмите из соответствующего файла. Текстовые блоки используйте из примера и подгоните под доступное место.</li>
+<li>Подготовьте макет к печати. Сохраните два варианта: с текстом в шрифтах и с текстом, переведённым в кривые.</li>
+</ul>
+</div>
+</details>
+<details>
+<summary>
+<span aria-hidden="true" class="num">02</span>
+<span class="sum-copy"><strong>Сверстать инструкцию</strong><small>Монтажный комплект, схема сборки и технические характеристики</small></span>
+<span aria-hidden="true" class="chev"></span>
+</summary>
+<div class="content">
+<p>Сверстайте инструкцию для светильника по приложенному примеру и исходным материалам фабрики.</p>
+<ul>
+<li>Состав монтажного комплекта сверьте с комплектом, указанным фабрикой, и внесите необходимые исправления.</li>
+<li>Отрисуйте схему сборки светильника по схеме фабрики.</li>
+<li>Замените значения технических характеристик на данные из таблицы.</li>
+<li>Текстовые блоки возьмите из примера инструкции.</li>
+<li>Толщина линий во всех чертежах — 0,4 pt.</li>
+</ul>
+<div class="deliver"><span class="subhead">Результат:</span> макет инструкции, подготовленный к печати. Сохраните два варианта файла: с текстом в шрифтах и с текстом, переведённым в кривые.</div>
+</div>
+</details>
+</section>
+</main>
+<footer class="wrap">© RITTER DESIGN STUDIO</footer>
+
+</body>
+</html>
